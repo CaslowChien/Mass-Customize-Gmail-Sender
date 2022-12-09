@@ -8,6 +8,7 @@ Discription video: https://youtu.be/3Ad-b1-96IU
 Discription video started from 05:28 : https://youtu.be/3Ad-b1-96IU?t=328
 
 **How To Use The Code?**
+
 every .py file is necessary
 the main python file is sender_login.py
 
@@ -32,6 +33,7 @@ the main python file is sender_login.py
 影片5分28秒開始: https://youtu.be/3Ad-b1-96IU?t=328
 
 **程式碼使用說明**
+
 必要程式檔為 .py 檔
 主程式為 sender_login.py 檔
 
