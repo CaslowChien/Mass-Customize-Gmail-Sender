@@ -4,11 +4,15 @@
 Discription video: https://youtu.be/3Ad-b1-96IU
 
 **How To Use It?**
-
 Discription video started from 05:28 : https://youtu.be/3Ad-b1-96IU?t=328
 
-**How To Use The Code?**
 
+**How To Use The System?**
+There's a release on the right side of the page. Download the "MassCustomizeGmailSender.zip" and unzip it. After unzipping it, open "dist" file and open sender_login.exe. There should be a pop up window for you to login.
+
+**How To Read The Code?**
+
+If you want to understand the code, you can download the files in the main branch.
 every .py file is necessary
 the main python file is sender_login.py
 
@@ -28,12 +32,17 @@ the main python file is sender_login.py
 
 直觀的寄信系統，來使用吧!
 
-**系統使用說明**
+**使用說明**
 
-影片5分28秒開始: https://youtu.be/3Ad-b1-96IU?t=328
+影片說明5分28秒開始: https://youtu.be/3Ad-b1-96IU?t=328
 
-**程式碼使用說明**
+**下載說明**
 
+請在右側Release區塊，下載 MassCustomizeGmailSender.zip。解壓縮後打開"dist"資料夾，執行裡面的 CaslowStockSelector.exe 檔案，即會跳出登入視窗。
+
+**程式碼說明**
+
+若直接下載程式碼:
 必要程式檔為 .py 檔
 主程式為 sender_login.py 檔
 
