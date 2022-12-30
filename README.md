@@ -4,10 +4,12 @@
 Discription video: https://youtu.be/3Ad-b1-96IU
 
 **How To Use It?**
+
 Discription video started from 05:28 : https://youtu.be/3Ad-b1-96IU?t=328
 
 
 **How To Use The System?**
+
 There's a release on the right side of the page. Download the "MassCustomizeGmailSender.zip" and unzip it. After unzipping it, open "dist" file and open sender_login.exe. There should be a pop up window for you to login.
 
 **How To Read The Code?**
